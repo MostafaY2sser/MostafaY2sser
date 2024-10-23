@@ -16,11 +16,13 @@ Front-end developer specializing in React.js and Next.js, with hands-on experien
 ## Trainings
 
 - **Digital Egypt Builders Pioneers (DEPI)**
-- **Minya University ITI Summer Training (ITI)**
   - Frontend Web Development
+  *(4/2024 - 10/2024*
+- **Minya University ITI Summer Training (ITI)**
   - Web Development
-  - MERN Stack Web Development  
-  *(4/2024 - 10/2024, 8/2024 - 9/8/2024, 7/2024 - 8/2024)*
+  *8/2024 - 9/8/2024* 
+  - MERN Stack Web Development
+  *7/2024 - 8/2024)*
 
 ---
 
